@@ -82,3 +82,6 @@ pip install torch gymnasium matplotlib numpy
 - Deploy the trained agent on a physical robot using a simulation-to-reality transfer.
 
 ---
+##
+
+This project was assigned as part of the RL Course, instructed by Professor Ausif mahmood.
